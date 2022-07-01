@@ -4,7 +4,7 @@ Here are some things you need to know about me:
 
 ---
 
-- 🔭 I’m currently working as Data Solution Coordinator
+- 🔭 I’m currently working as Data Solution Coordinator at Labcorp
 - 🌱 I’m currently learning AWS, Machine learning and Power BI
 - 👯 I’m looking to collaborate on Python and Data science Open Source Projects
 - 💬 Ask me about Python,Web Development and Web Scraping
